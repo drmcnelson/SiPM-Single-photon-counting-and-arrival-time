@@ -8,6 +8,6 @@ Here you will find gerbers, schematics and bill of materials for the current sta
 
 Caveat, these have not been built yet.  Sponsores are very welcome.
 
-![SiPM_Amplifier_TDC_SPI_top](https://github.com/user-attachments/assets/7d67d5c5-aa69-479b-b640-69460ece610e)
-
 ![SiPM_Carrier](https://github.com/user-attachments/assets/c80aea53-cabe-48d9-a1c9-c742df434c67)
+
+![SiPM_Amplifier_TDC_SPI_top](https://github.com/user-attachments/assets/7d67d5c5-aa69-479b-b640-69460ece610e)
