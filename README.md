@@ -1,8 +1,9 @@
 # SiPM-Single-photon-counting-and-arrival-time
 
-This is a work in progres, a silicon photo-multiplier sensor and amplifier with time to digital converter (TDC).
+This is a silicon photo-multiplier sensor and amplifier with time to digital converter (TDC).
 
 There are two boards, one is the SiPM carrier with space for  thermoelectric cooler on the back, and the second is the amplifier and TDC.  The TDC has a SPI interface.  Resolution should be in the 25ps range.
+The cost for parts is about $40 for each of the sensor and the amplifier boards.
 
 Here you will find gerbers, schematics and bill of materials for the current state of the project.  Firmware and host software should  be available within or month or two after the first build.
 
