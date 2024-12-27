@@ -1,16 +1,12 @@
 # SiPM-Single-photon-counting-and-arrival-time
 
-This is a design for a silicon photo-multiplier sensor and amplifier with time to digital converter (TDC) system with 25 picosecond resolution.  Bill of materials costs are currently under $40 for each of the sensor, and the amplifier and time to digital converter.   We are asking for contributors and sponsors to move the project forward.
+This is a design for a photon counting and tagging device with 25 picosecond resolution, comprisong a cooled silicon photo-multiplier (SiPM), a amplifier and time to digital converter (TDC) board with an SPI interface, and a system controller based on a Teensy 4.x.  Bill of materials costs are currently under $40 for each of the sensor, and the amplifier and time to digital converter.   We are asking for contributors and sponsors to move the project forward.
 
-Measuring and recording arrival times and counts for single photons, is a cornerstone capability for studying fluorescent lifetimes and also a wide range of quantum phenomenon.
+Measuring and recording arrival times and counts for single photons, is a cornerstone capability for studying fluorescent lifetimes and a wide range of quantum phenomenon.
 Normally these experiments can only be done in well funded well equipped laboratories.
-In our case, we have decades of experience in designing fast measurements of this type, which we want to contribute to making this capability more widely available.
-And as we mentioned, the cost in parts to do this is very much in the range that almost any researcher might afford out of pocket. 
-
-Gerbers, schematics and a bill of materials for two boards, reflecting our current design have been uploaded.
-The first is the sensor board hosting a silocon photomultiplier (SiPM)  with space for a thermoelectric cooler.
-The second is the amplifier and time to digitial converter.
-Note that these are designs only and have not yet been built and tested.
+The design here brings this capability within in the range that almost any researcher might afford out of pocket. 
+This repo hosts Gerbers, schematics and a bill of materials for the SiPM board and the amplifer and TDC board.
+Note that we have not yet been built and tested these.
 
 <img src="https://github.com/user-attachments/assets/c80aea53-cabe-48d9-a1c9-c742df434c67" height=400>
 
