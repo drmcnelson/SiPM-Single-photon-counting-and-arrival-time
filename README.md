@@ -25,4 +25,4 @@ Additionally, please note these are designs only.  First build and testing is pe
 
 The intent is to support access to doing good science for those who are not as well funded as others.  Commercial use is subject to review and approval, per this criterion.
 
-If you would like a preassembled board, please consider sponsoring (click the button at the top of the page) and please contact me.
+If you would like a preassembled board, please consider sponsoring (click the button at the top of the page) and please contact me for current costs of materials etc.
