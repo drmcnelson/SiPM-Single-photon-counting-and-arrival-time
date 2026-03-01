@@ -2,13 +2,14 @@
 
 By [Dr M. C. Nelson](https://github.com/drmcnelson/SiPM-Single-photon-counting-and-arrival-time),  [Copyright 2020-2026](#LICENSE)
 
-This is a design for a photon counting and tagging device with 25 picosecond resolution, comprisong a cooled silicon photo-multiplier (SiPM), a amplifier and time to digital converter (TDC) board with an SPI interface, and a system controller based on a Teensy 4.x.  Bill of materials costs are currently under $40 for each of the sensor, and the amplifier and time to digital converter.   We are asking for contributors and sponsors to move the project forward.
+This is a placeholder  for a photon counting and tagging device with 25 picosecond resolution, comprisong a cooled silicon photo-multiplier (SiPM), a amplifier and time to digital converter (TDC) board with an SPI interface, and a system controller based on a Teensy 4.x.  Bill of materials costs are currently under $40 for each of the sensor, and the amplifier and time to digital converter.   We are asking for contributors and sponsors to move the project forward.
 
 Measuring and recording arrival times and counts for single photons, is a cornerstone capability for studying fluorescent lifetimes and a wide range of quantum phenomenon.
 Normally these experiments can only be done in well funded well equipped laboratories.
-The design here brings this capability within in the range that almost any researcher might afford out of pocket. 
+The planned device will bring this capability within in the range that almost any researcher might afford out of pocket. 
 This repo hosts Gerbers, schematics and a bill of materials for the SiPM board and the amplifer and TDC board.
-Note that we have not yet been built and tested these.
+
+Note bene:  The designs here are notional and for purposes of illustration only.  The actual circuits will be posted after we have built the first boards and verified the design.
 
 <img src="https://github.com/user-attachments/assets/c80aea53-cabe-48d9-a1c9-c742df434c67" height=400>
 
