@@ -1,5 +1,7 @@
 # SiPM-Single-photon-counting-and-arrival-time
 
+By [Dr M. C. Nelson](https://github.com/drmcnelson/SiPM-Single-photon-counting-and-arrival-time),  [Copyright 2020-2026](#LICENSE)
+
 This is a design for a photon counting and tagging device with 25 picosecond resolution, comprisong a cooled silicon photo-multiplier (SiPM), a amplifier and time to digital converter (TDC) board with an SPI interface, and a system controller based on a Teensy 4.x.  Bill of materials costs are currently under $40 for each of the sensor, and the amplifier and time to digital converter.   We are asking for contributors and sponsors to move the project forward.
 
 Measuring and recording arrival times and counts for single photons, is a cornerstone capability for studying fluorescent lifetimes and a wide range of quantum phenomenon.
