@@ -20,11 +20,5 @@ These are preferred over the UNO R4 because the T4 provides faster transfers bet
 The T4.1 can host 16MB of local RAM.
 The controllers have standardized interfaces for signals and power for all of the boards in our SPI instrumentation project.
 
-## Availability and Sponsorhip
-This repo and its contents are provided without warranty or representation of suitability for any purpose whatsoever.
-
-Additionally, please note these are designs only.  First build and testing is pending contributions and sponsorship.  
-
-The intent is to support access to doing good science for those who are not as well funded as others.  Commercial use is subject to review and approval, per this criterion.
-
-If you would like a preassembled board, please consider sponsoring (click the button at the top of the page) and please contact me for current costs of materials etc.
+## Sponsorhip
+Please consider sponsoring (click the button at the top of the page).  We will offer boards for sponshorships covering the costs to assemble the first prototypes.  Pleae contact me if interested.
