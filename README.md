@@ -7,7 +7,6 @@ This is a placeholder  for a photon counting and tagging device with 25 picoseco
 Measuring and recording arrival times and counts for single photons, is a cornerstone capability for studying fluorescent lifetimes and a wide range of quantum phenomenon.
 Normally these experiments can only be done in well funded well equipped laboratories.
 The planned device will bring this capability within in the range that almost any researcher might afford out of pocket. 
-This repo hosts Gerbers, schematics and a bill of materials for the SiPM board and the amplifer and TDC board.
 
 Note bene:  The designs here are notional and for purposes of illustration only.  The actual circuits will be posted after we have built the first boards and verified the design.
 
